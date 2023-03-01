@@ -1,16 +1,16 @@
-### Hi there 👋
+### Hi there! I'm David. 👋
 
-<!--
-**d-yager/d-yager** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### Current Projects
 
-Here are some ideas to get you started:
+- 🧠 Custom Path Find Simulation
+- 🤖 Personal Discord Bot
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### About Me
+
+- 🔍 I’m looking for my first position in the field!
+- 📚 I’m practicing to improve my programming skills.
+- 📫 Contact me on LinkedIn: https://www.linkedin.com/in/david-yager/
+- 😎 Pronouns: He/Him
+
+
+
