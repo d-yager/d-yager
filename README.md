@@ -4,6 +4,7 @@
 
 - 🧠 Custom Path Find Simulation
 - 🤖 Personal Discord Bot
+- ⚫ Group Event Scheduler
 
 #### About Me
 
@@ -12,6 +13,3 @@
 - 🌐 I want to create a home network and use my programming skills for cyber security!
 - 📫 Contact me on LinkedIn: https://www.linkedin.com/in/david-yager/
 - 😎 Pronouns: He/Him
-
-
-
