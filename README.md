@@ -2,12 +2,10 @@
 
 #### Current Projects
 
-- 🤖 Personal Discord Bot
-- ⚫ Event Scheduler
+- ⚫ Working on a few things...
 
 #### About Me
 
-- 📚 I’m practicing to improve my programming skills.
-- 🌐 I want to create a home network and use my programming skills for cyber security!
+- 🌐 Building a home network and working on some cybersecurity projects.
 - 📫 Contact me on LinkedIn: https://www.linkedin.com/in/david-yager/
 - 😎 Pronouns: He/Him
